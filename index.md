@@ -1,5 +1,5 @@
 ## Welcome to Noah's useful repo for scripts, sql commands, and other important information
-At any time, select the [GO BACK TO INDEX](./index.md) hyperlink to return here, as GitHub pages only supports static websites (aka no Navbar)
+At any time, click on the "./ notesrepo at the top of the page to naviagte to the homepage
 
 ### Navigation Links
 #### Oracle Database realted
