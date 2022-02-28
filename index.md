@@ -3,7 +3,7 @@ At any time, click on the "./ notesrepo at the top of the page to naviagte to th
 
 ### Navigation Links
 #### Oracle Database realted
-- [DATABASE GENERAL SQL](./index.md) - Examples include database size, total size occupied by a user, alert log location
+- [DATABASE GENERAL SQL](./general_sql.md) - Examples include database size, total size occupied by a user, alert log location
 
 
 
